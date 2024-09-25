@@ -11,14 +11,13 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-rc.14",
     "katex": "^0.16.11",
-    "vue": "^3.4.31",
-    "vuepress": "2.0.0-rc.14",
-    "vuepress-theme-hope": "2.0.0-rc.50"
+    "vue": "^3.5.8",
+    "vuepress": "2.0.0-rc.15",
+    "vuepress-theme-hope": "2.0.0-rc.56"
   },
   "dependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "@vuepress/bundler-vite": "2.0.0-rc.15",
     "sass-loader": "^14.2.1"
   }
 }
