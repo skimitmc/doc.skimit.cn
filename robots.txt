@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://skimit.net/sitemap.xml
+Sitemap: https://skimit.net/skimit-homepage/sitemap.xml
